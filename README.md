@@ -5,7 +5,7 @@
 - [Github](https://github.com/JanarthananGCT/)
 - [Discord](https://discordapp.com/users/895693932036509736)
 - [LinkedIn](https://www.linkedin.com/in/janarthanan-s-6731a5214/)
-- [9345762325](#) 
+- [+91 9345762325](#) 
 
 
 ## About
@@ -14,7 +14,7 @@ I’m an avid learner looking for a job in the domain of development where I cou
 ## Professional Experience
 
 [**Bosch Global Software Solutions,** *Project Trainee*](https://www.bosch-softwaretechnologies.com/en/our-company/about-us/) (07/2023 – Present)
-- Utilized Robot Framework, Go Lang, and Rust for automation testing to design and implement efficient automation scripts.
+- Utilized **Robot Framework**, Go Lang, and Rust for automation testing to design and implement efficient automation scripts.
 - Demonstrated expertise in automation testing and proficiency in Robot Framework, Go Lang, and Rust to enhance overall testing efficiency and accuracy.
 - Worked with **Rust and Go-lang multi-threading** capabilities for serial communication.
 
@@ -79,11 +79,11 @@ I’m an avid learner looking for a job in the domain of development where I cou
    - B.Tech - IT.
    - CGPA: **7.9**.
 
-2 . [**RKV Matric Higher Secondary School,** *Jedarpalayam*](#) (2018 – 2020)
+2 . [**RKV Matric Higher Secondary School,** *Namakkal*](#) (2018 – 2020)
    - Higher Secondary.
    - Percentage : **89.6**.
 
-3 . [**Government Boys Higher Secondary school**](#) (2012 – 2018)
+3 . [**Government Boys Higher Secondary school**  *Namakkal*](#) (2012 – 2018)
    - Secondary.
    - Percentage : **94.8**.
                     
