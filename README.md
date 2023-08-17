@@ -86,11 +86,6 @@ I’m an avid learner looking for a job in the domain of development where I cou
    - Percentage : **94.8**.
                     
 
-## Interest
-   - Problem Solving
-   - Bug Bounty
-   - Data Science
-
 ## Certifications
    - [**BIT-TECH FEST 2021  ,GLOSSAS 2021  , National Level Virtual Technical Event**](https://drive.google.com/file/d/10-og0xRQ_ETQzm_nwkOpv3MsbpBko1fp/view?usp=sharing)
    - [**Google Analytics For Beginners**](https://analytics.google.com/analytics/academy/certificate/RwJN9oNCRsK1z5pqi0tEJw)
@@ -99,4 +94,8 @@ I’m an avid learner looking for a job in the domain of development where I cou
    - [**C Language Crash Course  @ Hebeon Technologie**](https://drive.google.com/file/d/1K6xck-UA34vY7xHMLMAHs9Q49n3CIh04/view?usp=sharing)
    - [**Python Crash Course @ EC-Council**](https://drive.google.com/file/d/1WY4VVyne986G8VgqyLbNbREHi1y3ikdX/view?usp=sharing)
 
-   
+
+## Interest
+   - Problem Solving
+   - Bug Bounty
+   - Data Science
