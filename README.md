@@ -24,7 +24,7 @@ I’m an avid learner looking for a job in the domain of development where I cou
 - Implemented user authentication and Google OAuth to provide seamless login/signup flow.
 - Converted Web applications to Android and IOS applications using Ionic and Cordova.
 - Worked on Dashboard to provide user data Management.
-- Tech stack: **Firebase, AWS Cloudflare, Nextjs, Tailwind CSS, Google Forms API, Google Analytics**.
+- Tech stack: **Firebase, AWS CloudFront, Nextjs, Tailwind CSS, Google Forms API, Google Analytics**.
 - Android Application: [Google Play Store](https://play.google.com/store/apps/details?id=com.exapmle.learningways)
 
 [**ThinkIndia,** *Fullstack* *Intern*](https://ideopedia-ideopedia1.vercel.app/)(09/2022 – 12/2022)
