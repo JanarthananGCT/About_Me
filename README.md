@@ -1,9 +1,8 @@
 
 # Janarthanan S
 - [Email](mailto:janarthananabc1729@gmail.com)
-- [Leetcode](https://leetcode.com/Janarthanan1729/)<!---
-Multi-line comment
-here
+<!---
+- [Leetcode](https://leetcode.com/Janarthanan1729/)
 -->
 - [Github](https://github.com/JanarthananGCT/)
 - [Discord](https://discordapp.com/users/895693932036509736)
