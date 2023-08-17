@@ -83,7 +83,7 @@ I’m an avid learner looking for a job in the domain of development where I cou
    - Higher Secondary.
    - Percentage : **89.6**.
 
-3 . [**Government Boys Higher Secondary school**  *Namakkal*](#) (2012 – 2018)
+3 . [**Government Boys Higher Secondary school,** *Namakkal*](#) (2012 – 2018)
    - Secondary.
    - Percentage : **94.8**.
                     
@@ -103,12 +103,11 @@ I’m an avid learner looking for a job in the domain of development where I cou
 
 ## Certifications
    - [**BIT-TECH FEST 2021  ,GLOSSAS 2021  , National Level Virtual Technical Event**](https://drive.google.com/file/d/10-og0xRQ_ETQzm_nwkOpv3MsbpBko1fp/view?usp=sharing)
-   - [**Google Analytics For Beginners**](https://analytics.google.com/analytics/academy/certificate/RwJN9oNCRsK1z5pqi0tEJw)
-   - [**AI-FOR-INDIA EVENT**](http://www.guvi.in/certificate?id=331bQI6K97H761J051)
+   - [**Google Analytics For Beginners @ Google Dev Community**](https://analytics.google.com/analytics/academy/certificate/RwJN9oNCRsK1z5pqi0tEJw)
    - [**Excel Crash Course @ Great Learning**](verify.greatlearning.in/DYVMJYXA)
    - [**C Language Crash Course  @ Hebeon Technologie**](https://drive.google.com/file/d/1K6xck-UA34vY7xHMLMAHs9Q49n3CIh04/view?usp=sharing)
    - [**Python Crash Course @ EC-Council**](https://drive.google.com/file/d/1WY4VVyne986G8VgqyLbNbREHi1y3ikdX/view?usp=sharing)
-
+   - [**AI-FOR-INDIA EVENT**](http://www.guvi.in/certificate?id=331bQI6K97H761J051)
 
 ## Interest
    - Problem Solving
