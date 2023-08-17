@@ -108,6 +108,9 @@ I’m an avid learner looking for a job in the domain of development where I cou
    - [**Excel Crash Course @ Great Learning**](verify.greatlearning.in/DYVMJYXA)
    - [**C Language Crash Course  @ Hebeon Technologie**](https://drive.google.com/file/d/1K6xck-UA34vY7xHMLMAHs9Q49n3CIh04/view?usp=sharing)
    - [**Python Crash Course @ EC-Council**](https://drive.google.com/file/d/1WY4VVyne986G8VgqyLbNbREHi1y3ikdX/view?usp=sharing)
+   - [**Programming in JAVA @ IIT Kharagpur**](https://drive.google.com/file/d/1WY4VVyne986G8VgqyLbNbREHi1y3ikdX/view?usp=sharing)
+   - [**Cloud Computing Crash Course @ IIT Kharagpur**](https://drive.google.com/file/d/1WY4VVyne986G8VgqyLbNbREHi1y3ikdX/view?usp=sharing)
+   - [**Blockchain and its Application @ IIT Kharagpur**](https://drive.google.com/file/d/1WY4VVyne986G8VgqyLbNbREHi1y3ikdX/view?usp=sharing)
    - [**AI-FOR-INDIA EVENT**](http://www.guvi.in/certificate?id=331bQI6K97H761J051)
 
 ## Interest
