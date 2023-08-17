@@ -102,7 +102,7 @@ I’m an avid learner looking for a job in the domain of development where I cou
    - Percentage : **94.8**.
                     
 
-## Certifications
+## Courses and Certifications
    - [**BIT-TECH FEST 2021  ,GLOSSAS 2021  , National Level Virtual Technical Event**](https://drive.google.com/file/d/10-og0xRQ_ETQzm_nwkOpv3MsbpBko1fp/view?usp=sharing)
    - [**Google Analytics For Beginners @ Google Dev Community**](https://analytics.google.com/analytics/academy/certificate/RwJN9oNCRsK1z5pqi0tEJw)
    - [**Excel Crash Course @ Great Learning**](verify.greatlearning.in/DYVMJYXA)
