@@ -88,7 +88,7 @@ I’m an avid learner looking for a job in the domain of development where I cou
    - Percentage : **94.8**.
                     
 
-## Club Activities
+## Clubs and Activities
 
 1 . [**Green Club GCT,** *Coimbatore*](https://www.facebook.com/GCTGREENCLUB/) (2020 – Present)
    - I serve as a dedicated poster designer, utilizing my creative skills to design impactful visual content. Additionally, I am an enthusiastic and committed active member of the Green Club, where I contribute to environmental initiatives and promote sustainability within our community.
