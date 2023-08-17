@@ -46,12 +46,12 @@ I’m an avid learner looking for a job in the domain of development where I cou
 
 ## Projects
 1. [**Pro-Bot**](https://probot-theta.vercel.app/)
-   - Integrated OpenAI tools for response generation.
+   - Integrated some of the OpenAI tools to get the response from the AI models.Example Code Conversion, Dataset Creation, Image Generation, Emojis Generator.
    - Model(Engines) used: Text-DaVinci-003, Text-DaVinci-002, DALE-2, GPT-3.
    - Tech stack: **NextJs, TailwindCSS, and NodeJs**.
 
 2. [**Invoice** **Generator** **-QRcode** **Scanner**](https://invoice-gen-client.vercel.app/)
-   - Streamlines billing process with QR codes.
+   - This app helps to generate and print bills by scanning the QR code and to generate the QR code for the product with the product price to paste it on the products. The shop owner can use this app by signing up with their Bank details. If the client wants to make a payment using UPI, the QRcode will be generated along with the total amount and the shop owner's bank details.
    - Built with **ReactJS, Node, JWT tokens, Emailjs, and MongoDB**.
 
 3. [**Spring-boot** **RestAPI**](https://github.com/JanarthananGCT/springboot-rest-service)
