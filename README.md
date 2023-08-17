@@ -35,7 +35,7 @@ I’m an avid learner looking for a job in the domain of development where I cou
 [**DataDesq,** *Fullstack* *Intern*](#)(03/2022 – 07/2022)
 - The motto of this project is to visualize the integrated analytics report of the product that the seller across various e-commerce sites sold.
 - Implemented an analytics report generation with google pubsub and bigquery to provide more understanding of the data pulled through the Shopify api
-- Tech stack: **Google Cloud Platform, BigQuery, Dataflow, Pubsub, Shopify API, Batch Job, Putty**.
+- Tech stack: **Google Cloud Platform, BigQuery, Dataflow, Pubsub, Shopify API, Node-Cron, Putty**.
 
 ## Skills
 - **Programming Languages**: C, Python, JavaScript, Java, Go, Rust.
