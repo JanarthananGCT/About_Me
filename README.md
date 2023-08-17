@@ -35,10 +35,12 @@ I’m an avid learner looking for a job in the domain of development where I cou
 - Tech stack: **Google Cloud Platform, BigQuery, Dataflow, Pubsub, Shopify API, Batch Job, Putty**.
 
 ## Skills
-- **Frontend**  : NextJS, TypeScript, ReactJS, PHP, Bootstrap, JavaScript, TailwindCss.
-- **Backend**   : NodeJS, Spring-boot, MongoDB, GraphQL, Firebase, MySQL, DBMS.
 - **Programming Languages**: C, Python, JavaScript, Java, Go, Rust.
-- **Other skills**: **Google Analytics, Docker, Jenkins, Selenium, AWS Ec2, GCP, Ionic, Cordova, Firebase, Electronjs**.
+- **Frontend**  : NextJS, TypeScript, ReactJS, PHP, Bootstrap, JavaScript, TailwindCss.
+- **Backend**   : NodeJS, Spring-boot, MongoDB, GraphQL, MySQL, DBMS.
+- **Cloud Services**   : GCP, BigQuery, Pub-sub, AWS-Ec2, AWS -S3, Aws-Poly, Aws-cloud front, Google Analytics, Firebase.
+- **Hybrid App Dev**   : Electronjs , Ionic , Cordova.
+- **Other skills**   : Docker, jenkins, Selinium-Web-Driver.
 
 ## Projects
 1. [**Pro-Bot**](https://probot-theta.vercel.app/)
