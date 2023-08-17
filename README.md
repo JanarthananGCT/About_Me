@@ -1,7 +1,6 @@
 
 # Janarthanan S
-- [Email](mailto:janarthananabc1729@gmail.com)
-<!---
+- [Email](mailto:janarthananabc1729@gmail.com) <!---
 - [Leetcode](https://leetcode.com/Janarthanan1729/)
 -->
 - [Github](https://github.com/JanarthananGCT/)
