@@ -86,6 +86,19 @@ I’m an avid learner looking for a job in the domain of development where I cou
    - Percentage : **94.8**.
                     
 
+## Club Activities
+
+1 . [**Green Club GCT,** *Coimbatore*](https://www.facebook.com/GCTGREENCLUB/) (2020 – Present)
+   - I serve as a dedicated poster designer, utilizing my creative skills to design impactful visual content. Additionally, I am an enthusiastic and committed active member of the Green Club, where I contribute to environmental initiatives and promote sustainability within our community.
+
+2 . [**Y's Service Club of GCT YOUTH,** *Coimbatore*](https://ysyouthgct.in/) (2020 – Present)
+   - I proudly hold the position of an active member within the Y's Service Club of GCT YOUTH. As a dedicated participant, I engage passionately in various service projects and initiatives aimed at making a meaningful impact on our community
+
+3 . [**CODING CLUB OF GCT,** *Coimbatore*](https://www.codingclubgct.in/) (2020 – Present)
+   - I am an engaged and active member of the Coding Club at GCT, where I enthusiastically participate in various coding-related activities. Within the club, I have successfully tackled a range of intriguing coding problem statements, showcasing my problem-solving skills and dedication.
+                    
+
+
 ## Certifications
    - [**BIT-TECH FEST 2021  ,GLOSSAS 2021  , National Level Virtual Technical Event**](https://drive.google.com/file/d/10-og0xRQ_ETQzm_nwkOpv3MsbpBko1fp/view?usp=sharing)
    - [**Google Analytics For Beginners**](https://analytics.google.com/analytics/academy/certificate/RwJN9oNCRsK1z5pqi0tEJw)
