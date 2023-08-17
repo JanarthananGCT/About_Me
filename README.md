@@ -41,7 +41,7 @@ I’m an avid learner looking for a job in the domain of development where I cou
 - **Backend**   : NodeJS, Spring-boot, MongoDB, GraphQL, MySQL, DBMS.
 - **Cloud Services**   : GCP, BigQuery, Pub-sub, AWS-Ec2, AWS -S3, Aws-Poly, Aws-cloud front, Google Analytics, Firebase.
 - **Hybrid App Dev**   : Electronjs , Ionic , Cordova.
-- **Other skills**   : Docker, jenkins, Selinium-Web-Driver, Git, Bit bucket, Gerrit, Ngrok, Putty, Linux.
+- **Other skills**   : Docker, jenkins, Selenium-Web-Driver, Git, Bit bucket, Gerrit, Ngrok, Putty, Linux.
 
 ## Projects
 1. [**Pro-Bot**](https://probot-theta.vercel.app/)
