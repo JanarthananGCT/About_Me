@@ -25,12 +25,12 @@ I’m an avid learner looking for a job in the domain of development where I cou
 - Tech stack: **Firebase, AWS CloudFront, Nextjs, Tailwind CSS, Google Forms API, Google Analytics**.
 - Android Application: [Google Play Store](https://play.google.com/store/apps/details?id=com.exapmle.learningways)
 
-[**ThinkIndia,** *Fullstack* *Intern*](https://ideopedia-ideopedia1.vercel.app/)(09/2022 – 12/2022)
+[**ThinkIndia,** *Fullstack* *Intern*](https://ideopedia-ideopedia1.vercel.app/) (09/2022 – 12/2022)
 - Worked on an all-in-one dashboard to provide user management and summary digitalization.
 - Achieved a consistent look and visual theme across the website.
 - Tech stack: **Nextjs, Google Cloud Platform, Nodejs, MongoDB, Tailwind CSS, Email-js, SSR, Google Analytics**.
 
-[**DataDesq,** *Fullstack* *Intern*](#)(03/2022 – 07/2022)
+[**DataDesq,** *Fullstack* *Intern*](#) (03/2022 – 07/2022)
 - The motto of this project is to visualize the integrated analytics report of the product that the seller across various e-commerce sites sold.
 - Implemented an analytics report generation with google pubsub and bigquery to provide more understanding of the data pulled through the Shopify api
 - Tech stack: **Google Cloud Platform, BigQuery, Dataflow, Pubsub, Shopify API, Node-Cron, Putty**.
@@ -83,7 +83,7 @@ I’m an avid learner looking for a job in the domain of development where I cou
 2 . [**Y's Service Club of GCT YOUTH,** *Coimbatore*](https://ysyouthgct.in/) (2020 – Present)
    - I proudly hold the position of an active member within the Y's Service Club of GCT YOUTH. As a dedicated participant, I engage passionately in various service projects and initiatives aimed at making a meaningful impact on our community
 
-3 . [**CODING CLUB OF GCT,** *Coimbatore*](https://www.codingclubgct.in/) (2020 – Present)
+3 . [**Coding Club Of GCT,** *Coimbatore*](https://www.codingclubgct.in/) (2020 – Present)
    - I am an engaged and active member of the Coding Club at GCT, where I enthusiastically participate in various coding-related activities. Within the club, I have successfully tackled a range of intriguing coding problem statements, showcasing my problem-solving skills and dedication.
                     
 
@@ -111,7 +111,7 @@ I’m an avid learner looking for a job in the domain of development where I cou
    - [**Programming in JAVA @ IIT Kharagpur**](https://drive.google.com/file/d/1vFYwEfNA3J43cjq9oduYmOQ0s8eh1V_m/view)
    - [**Cloud Computing Crash Course @ IIT Kharagpur**](https://drive.google.com/file/d/1y1dL6002cEdzAVeDzPQ130IN-bXSyGJi/view)
    - [**Blockchain and its Application @ IIT Kharagpur**](https://drive.google.com/file/d/1xysL_nwWvV0fkhc9omrzi9KACJP5En8y/view)
-   - [**AI-FOR-INDIA EVENT**](http://www.guvi.in/certificate?id=331bQI6K97H761J051)
+   - [**AI-For-India Event**](http://www.guvi.in/certificate?id=331bQI6K97H761J051)
 
 ## Interest
    - Problem Solving
