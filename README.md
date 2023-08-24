@@ -13,7 +13,7 @@ I’m an avid learner looking for a job in the domain of development where I cou
 
 ## Professional Experience
 
-[**Bosch Global Software Solutions,** *Project Trainee*](https://www.bosch-softwaretechnologies.com/en/our-company/about-us/) (07/2023 – Present)
+[**Bosch Global Software Solutions,** *Project Trainee*](https://www.bosch-softwaretechnologies.com/en/our-company/about-us/) (07/2023 – 08/2023)
 - Utilized **Robot Framework**, Go Lang, and Rust for automation testing to design and implement efficient automation scripts.
 - Demonstrated expertise in automation testing and proficiency in Robot Framework, Go Lang, and Rust to enhance overall testing efficiency and accuracy.
 - Worked with **Rust , Go-lang multi-threading , Pyo3 , Robot Framework** capabilities for serial communication.
