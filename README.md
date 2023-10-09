@@ -13,6 +13,13 @@ I’m an avid learner looking for a job in the domain of development where I cou
 
 ## Professional Experience
 
+[**Growth Hacker Consulting Private Limited,** *Project Trainee*](https://www.prodoc.io/) (09/2023 – present)
+- Working as a full-stack web developer for the project
+- Helped to achieve a consistent look and visual theme across the website by promoting uniform fonts, formatting, images, and layout.
+- Integrated Health care AI Model and released an [AI-driven application](https://prodoc.health/).
+- Tech stack: **PHP, Reactjs, Nodejs, MongoDB, Tailwind CSS, Jira, Agile workspace**
+
+
 [**Bosch Global Software Solutions,** *Project Trainee*](https://www.bosch-softwaretechnologies.com/en/our-company/about-us/) (07/2023 – 08/2023)
 - Utilized **Robot Framework**, Go Lang, and Rust for automation testing to design and implement efficient automation scripts.
 - Demonstrated expertise in automation testing and proficiency in Robot Framework, Go Lang, and Rust to enhance overall testing efficiency and accuracy.
