@@ -59,25 +59,31 @@ I’m an avid learner looking for a job in the domain of development where I cou
 2. [**Invoice** **Generator** **-QRcode** **Scanner**](https://invoice-gen-client.vercel.app/)
    - This app helps to generate and print bills by scanning the QR code and to generate the QR code for the product with the product price to paste it on the products. The shop owner can use this app by signing up with their Bank details. If the client wants to make a payment using UPI, the QRcode will be generated along with the total amount and the shop owner's bank details.
    - Built with **ReactJS, Node, JWT tokens, Emailjs, and MongoDB**.
+  
+3.  [**Tech** **Hub** ](https://devfolio-ghwp3eoba-krishnan-456.vercel.app/)
+   - A user-centric job application platform featuring a modern and minimalistic UI design.Enabled users to easily apply to job listings with a single click, robust search and filter functionalities to find relevant.
+   - Implemented a profile management system, allowing users to keep their information up-to-date.
+   - Tech stack: **Reactjs, Strapi , TailwindCss**
 
-3. [**Spring-boot** **RestAPI**](https://github.com/JanarthananGCT/springboot-rest-service)
+
+4. [**Spring-boot** **RestAPI**](https://github.com/JanarthananGCT/springboot-rest-service)
    - Student API to create, edit, delete, and manage student details in MongoDB.
    - Built using: **Spring-boot, MongoDB**.
 
-4. [**GraphQL** **API**](https://github.com/JanarthananGCT/graphQl-nodejs-mongoDB)
+5. [**GraphQL** **API**](https://github.com/JanarthananGCT/graphQl-nodejs-mongoDB)
    - GraphQl API for Product Database.
    - Allows adding, deleting, updating, and editing product data.
    - Made using: **Nodejs, GraphQl.js, MongoDB**.
 
-5. [**RestAPI**](https://github.com/JanarthananGCT/rest-api-typescript)
+6. [**RestAPI**](https://github.com/JanarthananGCT/rest-api-typescript)
    - Allows GET, POST, DELETE, and UPDATE operations on this API without authentication.
    - Built with T**ypeScript and NodeJS, MongoDB**.
   
-6. [**Blood Bank**](https://blood-bank-iml2.vercel.app/)
+7. [**Blood Bank**](https://blood-bank-iml2.vercel.app/)
    - This app helps to get the availability of the blood components across the registered hospitals and to donate blood to your nearest hospital. Hospitals can record the blood components by logging in to this app. Users can request a particular blood component from a specific hospital through Email.
    - It was developed using **NextJS-ReactJS, Tailwindcss, MongoDB, and NodeJS**.
   
-7. [**Firebase Authentication**](https://firebase-auth-b66p.vercel.app/)
+8. [**Firebase Authentication**](https://firebase-auth-b66p.vercel.app/)
    - It allows users to signup and log in by providing email and password credentials. In case the user forgot the password it sends a link to reset the password to the registered email address. Users can able to edit their profile details by logging into the app.
    - Made using **Firebase-Auth, Firebase-cloud storage, ReactJS and Bootstrap**.
 
