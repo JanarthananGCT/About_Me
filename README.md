@@ -13,7 +13,7 @@ I’m an avid learner looking for a job in the domain of development where I cou
 
 ## Professional Experience
 
-[**Growth Hacker Consulting Private Limited,** *Project Trainee*](https://www.prodoc.io/) (09/2023 – present)
+[**Growth Hacker Consulting Private Limited,** *Project Trainee*](https://www.prodoc.io/) (09/2023 – 10/2023)
 - Working as a full-stack web developer for the project
 - Helped to achieve a consistent look and visual theme across the website by promoting uniform fonts, formatting, images, and layout.
 - Integrated Health care AI Model and released an [AI-driven application](https://prodoc.health/).
